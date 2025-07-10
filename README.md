@@ -34,18 +34,18 @@ An interactive, real-time **Currency Converter** built using **HTML**, **CSS**, 
    git clone https://github.com/your-username/currency-converter.git
    cd currency-converter
 2.  Open index.html in your browser
-You can double-click the file or use Live Server in VS Code.
+    You can double-click the file or use Live Server in VS Code.
 
 3.  Start converting currencies
 
-Select currencies from the dropdown
+     Select currencies from the dropdown
 
-Enter the amount
+     Enter the amount
 
-Click “Get Exchange Rate”
+     Click “Get Exchange Rate”
 
-The converted value will appear instantly
+     The converted value will appear instantly
 
 
-📸 Screenshot 
-![image](https://github.com/user-attachments/assets/c582f54a-7732-47bb-85c1-1239c96e690a)
+ 📸 Screenshot 
+     ![image](https://github.com/user-attachments/assets/c582f54a-7732-47bb-85c1-1239c96e690a)
