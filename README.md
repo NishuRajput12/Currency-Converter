@@ -2,7 +2,7 @@
 
 An interactive, real-time **Currency Converter** built using **HTML**, **CSS**, and ** JavaScript**. This web app allows users to convert between currencies using live exchange rates from a free public API. It features a clean UI, responsive design, and dynamically updating country flags for each selected currency.
 
----
+----
 
 ## 🚀 Features
 
